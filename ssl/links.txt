@@ -1,0 +1,4 @@
+mail.example.com
+mail.server.hie
+op.afzonderlijke.lijn
+geen.laatste-lege.lijn
