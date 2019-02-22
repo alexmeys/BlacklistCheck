@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use warnings;
 #use strict;
-# Alex Meys 2012
+
 use Socket;
 use Net::SMTP;
 
