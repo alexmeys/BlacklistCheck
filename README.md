@@ -5,7 +5,7 @@ Install Activbestate Perl 5.12.4
 
 Module : Libnet 1.22
 
-Copy pl en bat files to C:\Balcklist\
+Copy pl en bat files to C:\Blacklist\
 
 blacklist_taak.bat is the file that can be scheduled in windows
 links.txt dns records to check upon.
